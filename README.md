@@ -3,7 +3,7 @@ This is Fabio de Matos here.
 Junior Developer currently based in Curitiba/PR, Brazil, but planning moving to Canada.
 .Aiming to become a fullstack software developer.
 .📚 I'm enrolled in a 3 years Analysis and Systems Development Course
-.📁Check-out my portfolio:https://fabiomatos-dev.github.io/FabioMatos_webPortfolio/
+.📁Check-out my portfolio:https://fabiomatos-dev.github.io/webportfolio/
 
 
 
